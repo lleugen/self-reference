@@ -1,4 +1,4 @@
-# update: a program that prints it's source code without taking any input is called a 'quine'
+### update: a program that prints its source code without taking any input is called a 'quine'
 After the famous mathematician.
 Here is an example in C:
 
